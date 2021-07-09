@@ -8,7 +8,10 @@ Juan David - 1872008
 Rolando Vieri – 1872010
 Anthony Halim - 1872027
 
-Langkah-langkah instalasi:
+##Link penjelasan youtube:
+https://youtu.be/EgEmurapsso
+
+##Langkah-langkah instalasi:
 
 1.) Install library yang diperlukan dengan menuliskan “pip install <namalibrary>” pada terminal. Untuk library yang diperlukan diantaranya adalah:
 flask, numpy, pandas, re, gensim, spacy, pyLDAvis, matplotlib, Sastrawi, nltk, dan wordcloud.
@@ -17,7 +20,7 @@ flask, numpy, pandas, re, gensim, spacy, pyLDAvis, matplotlib, Sastrawi, nltk, d
   
 3.) Masukkan alamat “localhost:5000” pada browser
 
-Langkah-langkah penggunaan mencari topik modeling:
+##Langkah-langkah penggunaan mencari topik modeling:
   
 1.) Memasukkan tanggal awal dan tanggal akhir sesuai format tanggal yang tertera.
   
@@ -26,14 +29,14 @@ Langkah-langkah penggunaan mencari topik modeling:
 3.) Tunggu proses pemodelan topik hingga selesai hingga hasil topik muncul pada tabel.
   
 
-Langkah-langkah melihat detail topik:
+##Langkah-langkah melihat detail topik:
   
 1.) Menekan hyperlink pada tabel pada kolom nomor
   
 2.) Halaman detail akan terbuka yang berisi wordcloud dari kata kunci yang terdapat pada topik tersebut.
   
 
-Langkah-langkah melakukan download CSV:
+##Langkah-langkah melakukan download CSV:
   
 1.) Memasukkan tanggal awal dan tanggal akhir sesuai format tanggal yang tertera.
   
